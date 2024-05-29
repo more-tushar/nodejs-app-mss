@@ -6,7 +6,7 @@
   "publishConfig": {
     "registry": "" 
   },
-  //add nexus repo 
+
   "scripts": {
     "server": "http-server -c-1 -p 9999",
     "start1": "nodemon app.js",
