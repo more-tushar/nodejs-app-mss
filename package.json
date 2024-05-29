@@ -4,9 +4,9 @@
   "description": "This Project explains all Node JS examples",
   "main": "app.js",
   "publishConfig": {
-    "registry": "http://13.40.35.125:9980/mithuntechnologies/repository/nodejs-mssrepo/"
+    "registry": "" 
   },
-  
+  //add nexus repo 
   "scripts": {
     "server": "http-server -c-1 -p 9999",
     "start1": "nodemon app.js",
